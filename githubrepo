@@ -1,0 +1,31 @@
+cURL Command:
+curl -s https://api.github.com/repos/sohamd530-eng/expressBookReviews
+
+Output:
+{
+  "id": 1404455823,
+  "node_id": "R_kgDOO8i_jw",
+  "name": "expressBookReviews",
+  "full_name": "sohamd530-eng/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "sohamd530-eng",
+    "id": 232777492,
+    "html_url": "https://github.com/sohamd530-eng"
+  },
+  "html_url": "https://github.com/sohamd530-eng/expressBookReviews",
+  "fork": true,
+  "url": "https://api.github.com/repos/sohamd530-eng/expressBookReviews",
+  "parent": {
+    "id": 533628036,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "id": 533628036,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
